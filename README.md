@@ -170,7 +170,7 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:24ug1byai248@bmsit.in"><img src="https://img.shields.io/badge/GMAIL-1e2327?style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/24UG1BYAI248%40BMSIT.IN-7C3AED?style=for-the-badge" /></a>
+<a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/GMAIL-1e2327?style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/DHEEKSHANAVEEN12%GMAIL.COM-7C3AED?style=for-the-badge" /></a>
 
 <br/><br/>
 
