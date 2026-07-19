@@ -13,7 +13,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/dheekshanaveen/"><img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge" /></a>
-<a href="mailto:24ug1byai248@bmsit.in"><img src="https://img.shields.io/badge/EMAIL-1e2327?style=for-the-badge" /></a>
+<a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1e2327?style=for-the-badge" /></a>
 <a href="https://github.com/dheekshanaveen"><img src="https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge" /></a>
 
 <br/><br/>
@@ -157,11 +157,11 @@ open_to:
 
 | Recognition | Details |
 |---|---|
-| CGPA 9.23 | AI/ML Engineering, BMSIT |
+| CGPA 9.2 | AI/ML Engineering, BMSIT |
 | Smart India Hackathon | Blue Carbon MRV — environmental-tech MRV system |
 | Web Development Certification | Udemy |
 | Python & SQL Certification | Udemy |
-| 100 Days of Code Bootcamp | Completed |
+| Full Stack Web Development| Completed |
 | Coding Club, BMSIT | Core Member · Marketing Associate · Vice President |
 
 ---
