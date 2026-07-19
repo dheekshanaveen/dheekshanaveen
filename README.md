@@ -120,7 +120,7 @@ Contributed across club operations and technical event organizing in roles of in
 ## Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dheekshanaveen&theme=darkhub&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=dheekshanaveen&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </div>
 
 ## Contribution Activity
@@ -129,13 +129,37 @@ Contributed across club operations and technical event organizing in roles of in
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheekshanaveen&theme=react-dark&hide_border=true&color=7C3AED&line=7C3AED" width="100%"/>
 </div>
 
-## Contribution Snake
+name: Generate Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/dheekshanaveen/dheekshanaveen/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs once a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
 
----
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake game SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: dheekshanaveen
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push output to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ## Current Focus
 
