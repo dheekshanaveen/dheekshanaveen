@@ -6,9 +6,9 @@
 
 # Dheeksha N
 
-<img src="https://img.shields.io/badge/AI%2FML%20Engineering-1e2327?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BMSIT,%20Bengaluru-1e2327?style=for-the-badge" /><img src="https://img.shields.io/badge/Karnataka,%20India-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CGPA-9.23-1e2327?style=for-the-badge" />
+<a href="#ai--ml-expertise"><img src="https://img.shields.io/badge/AI%2FML%20Engineering-1e2327?style=for-the-badge" /></a>
+<a href="https://bmsit.ac.in/"><img src="https://img.shields.io/badge/BMSIT,%20Bengaluru-1e2327?style=for-the-badge" /></a><a href="https://www.google.com/maps/place/Karnataka,+India"><img src="https://img.shields.io/badge/Karnataka,%20India-7C3AED?style=for-the-badge" /></a>
+<a href="#achievements"><img src="https://img.shields.io/badge/CGPA-9.2-1e2327?style=for-the-badge" /></a>
 
 <br/><br/>
 
@@ -65,6 +65,8 @@ I'm also active in Coding Club, BMSIT, where I've held Core Member, Marketing As
 Flask application using OpenCV and MediaPipe Pose to track and count exercise reps (push-ups, squats, lunges, planks) in real time, with voice feedback at rep milestones.
 <br/><br/>
 <code>Python</code> <code>Flask</code> <code>OpenCV</code> <code>MediaPipe</code>
+<br/><br/>
+<a href="https://github.com/dheekshanaveen/fitphile-">View Repository →</a>
 </details>
 
 <details>
@@ -73,6 +75,8 @@ Flask application using OpenCV and MediaPipe Pose to track and count exercise re
 LLM-based chatbot using retrieval-augmented generation to answer academic questions grounded in institutional documents rather than model memory alone. Actively in development.
 <br/><br/>
 <code>Python</code> <code>LangChain</code> <code>RAG</code>
+<br/><br/>
+<a href="https://github.com/dheekshanaveen/LLM-based-academic-chabot-with-RAG">View Repository →</a>
 </details>
 
 <details>
@@ -81,6 +85,8 @@ LLM-based chatbot using retrieval-augmented generation to answer academic questi
 Python-based agentic AI system automating stages of a loan lending workflow through cooperating AI agents.
 <br/><br/>
 <code>Python</code> <code>Agentic AI</code>
+<br/><br/>
+<a href="https://github.com/dheekshanaveen/agentic_lending_system">View Repository →</a>
 </details>
 
 <details>
@@ -95,7 +101,7 @@ Environmental-tech monitoring, reporting, and verification system for blue carbo
 
 ## Experience
 
-**Core Member · Marketing Associate · Vice President** — Coding Club, BMSIT
+**Core Member · Marketing Associate · Vice President** — [Coding Club, BMSIT](https://bmsit.ac.in/)
 `2024 – Present`
 
 Contributed across club operations and technical event organizing in roles of increasing responsibility.
@@ -170,7 +176,7 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/GMAIL-1e2327?style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/DHEEKSHANAVEEN12%GMAIL.COM-7C3AED?style=for-the-badge" /></a>
+<a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/GMAIL-1e2327?style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/DHEEKSHANAVEEN12%40GMAIL.COM-7C3AED?style=for-the-badge" /></a>
 
 <br/><br/>
 
