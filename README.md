@@ -108,20 +108,6 @@ Contributed across club operations and technical event organizing in roles of in
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dheekshanaveen&show_icons=true&theme=dark&hide_border=true&title_color=7C3AED" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheekshanaveen&layout=compact&theme=dark&hide_border=true&title_color=7C3AED" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheekshanaveen&theme=dark&hide_border=true&ring=7C3AED&fire=7C3AED" />
-</div>
-
-## Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dheekshanaveen&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</div>
 
 
 ## Current Focus
