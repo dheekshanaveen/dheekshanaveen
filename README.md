@@ -107,7 +107,7 @@ Monitoring, reporting, and verification system for blue carbon tracking, built f
 
 ## Experience
 
-**Coding Club, BMSIT** · *Core Member → Marketing Associate → Vice President* · 2024 – Present
+**Coding Club, BMSIT** · *Core Member → Marketing Associate → Vice President* · 2026 – Present
 
 Contributed across club operations and technical event organizing, in roles of increasing responsibility.
 
