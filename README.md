@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=130&text=Dheeksha%20N&fontColor=F8FAFC&fontSize=48&fontAlignY=50" width="100%" alt="Dheeksha N"/>
+<img src="./assets/banner.svg" width="100%" alt="Dheeksha N, AI/ML Engineer"/>
 
-<a href="https://github.com/dheekshanaveen"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=0E7490&center=true&vCenter=true&width=640&height=40&lines=AI+%2F+ML+Engineering+Undergraduate;Building+LLM+%26+RAG+applications;Computer+Vision+%C2%B7+Agentic+AI+%C2%B7+Backend;Shipping+projects+that+run+end+to+end" alt="Typing intro"/></a>
+<br/>
 
-<a href="https://www.linkedin.com/in/dheekshanaveen/"><img src="https://img.shields.io/badge/LinkedIn-0E7490?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/dheekshanaveen/"><img src="https://img.shields.io/badge/LinkedIn-0284C7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/dheekshanaveen"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/Email-0E7490?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Bengaluru%2C%20India-0F172A?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+<a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/Email-0284C7?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/BMSIT%2C%20Bengaluru-0F172A?style=flat-square" alt="BMSIT"/>
+<img src="https://img.shields.io/badge/CGPA-9.18-0284C7?style=flat-square" alt="CGPA 9.18"/>
 
 </div>
 
@@ -15,7 +16,7 @@
 
 <div align="center">
 
-| 🎓 **9.18** | 🛠️ **4** | 🏆 **SIH** | 👥 **VP** |
+| **9.18** | **4** | **SIH** | **VP** |
 |:---:|:---:|:---:|:---:|
 | CGPA<br/>B.E. AI & ML | Featured<br/>Projects | Smart India<br/>Hackathon | Coding Club<br/>BMSIT |
 
@@ -23,7 +24,7 @@
 
 <br/>
 
-## 👋 About
+## About
 
 I'm an AI/ML Engineering undergraduate at **BMS Institute of Technology & Management, Bengaluru** (batch of 2024–2028), working across large language models, retrieval-augmented generation, and computer vision.
 
@@ -31,31 +32,31 @@ My projects include a real-time computer-vision fitness tracker, a retrieval-aug
 
 Outside coursework, I'm active in **Coding Club, BMSIT**, where I've grown from Core Member to Marketing Associate to Vice President.
 
-> 🟢 **Open to:** ML/AI internships · Backend engineering roles · Research collaborations · Open-source contributions
+> **Open to:** ML/AI internships · Backend engineering roles · Research collaborations · Open-source contributions
 
 <br/>
 
-## 🧭 What I Work On
+## What I Work On
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**👁️ Computer Vision**
+**Computer Vision**
 
 Real-time pose estimation and landmark tracking with MediaPipe and OpenCV.
 
 </td>
 <td width="33%" valign="top">
 
-**🧠 LLMs & RAG**
+**LLMs & RAG**
 
 Retrieval-augmented systems that answer from trusted documents, built with LangChain.
 
 </td>
 <td width="33%" valign="top">
 
-**🤖 Agentic AI**
+**Agentic AI**
 
 Cooperating AI agents that automate multi-step workflows in Python.
 
@@ -65,33 +66,15 @@ Cooperating AI agents that automate multi-step workflows in Python.
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
-**Languages**<br/>
-<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-0F172A?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-0F172A?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=white"/>
-
-**AI / ML & Backend**<br/>
-<img src="https://img.shields.io/badge/OpenCV-0E7490?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-0E7490?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-0E7490?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-0E7490?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0E7490?style=flat-square&logo=fastapi&logoColor=white"/>
-
-**Tools**<br/>
-<img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-0F172A?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=white"/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,opencv,c,cpp,html,css,js,git,github,vscode,linux&theme=dark" alt="Tech stack"/>
+</div>
 
 <br/>
 
-## 📊 Focus Areas
+## Focus Areas
 
 | Domain | Level | What I work with |
 |:--|:--|:--|
@@ -103,7 +86,7 @@ Cooperating AI agents that automate multi-step workflows in Python.
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -160,7 +143,7 @@ Monitoring, reporting, and verification system for blue carbon tracking, built f
 
 <br/>
 
-## 💼 Experience
+## Experience
 
 **Coding Club, BMSIT** · 2024 – Present
 
@@ -172,7 +155,7 @@ Monitoring, reporting, and verification system for blue carbon tracking, built f
 
 <br/>
 
-## 🎯 Currently
+## Currently
 
 | | |
 |:--|:--|
@@ -181,7 +164,7 @@ Monitoring, reporting, and verification system for blue carbon tracking, built f
 
 <br/>
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 | | |
 |:--|:--|
@@ -192,32 +175,32 @@ Monitoring, reporting, and verification system for blue carbon tracking, built f
 
 <br/>
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dheekshanaveen&show_icons=true&hide=stars&hide_rank=true&count_private=true&bg_color=0F172A&border_color=164E63&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheekshanaveen&layout=compact&bg_color=0F172A&border_color=164E63&title_color=22D3EE&text_color=CBD5E1" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dheekshanaveen&show_icons=true&hide=stars&hide_rank=true&count_private=true&bg_color=0F172A&border_color=1E3A5F&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheekshanaveen&layout=compact&bg_color=0F172A&border_color=1E3A5F&title_color=38BDF8&text_color=CBD5E1" alt="Top languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dheekshanaveen&bg_color=0F172A&color=22D3EE&line=0E7490&point=F8FAFC&area=true&area_color=0E7490&hide_border=true&title_color=22D3EE" width="100%" alt="Contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dheekshanaveen&bg_color=0F172A&color=38BDF8&line=0284C7&point=F8FAFC&area=true&area_color=0284C7&hide_border=true&title_color=38BDF8" width="100%" alt="Contribution graph"/>
 
 </div>
 
 <br/>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm looking for ML/AI internship opportunities and happy to collaborate on research or open-source work. The fastest way to reach me is email or LinkedIn.
 
 <div align="center">
 
-<a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/dheekshanaveen12%40gmail.com-0E7490?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/dheekshanaveen12%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dheekshanaveen/"><img src="https://img.shields.io/badge/dheekshanaveen-0F172A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
 <sub><i>Build things that work end to end, not things that only work in a demo.</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0E7490&height=3" width="100%" alt=""/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
 
 </div>
