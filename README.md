@@ -1,172 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,100:7C3AED&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0E7490&height=200&section=header&text=Dheeksha%20N&fontColor=F8FAFC&fontSize=52&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20LLMs%20%C2%B7%20RAG%20%C2%B7%20Computer%20Vision&descColor=A5F3FC&descSize=18&descAlignY=60" width="100%" alt="Dheeksha N header"/>
 
-<br/>
+<a href="https://www.linkedin.com/in/dheekshanaveen/"><img src="https://img.shields.io/badge/LinkedIn-0E7490?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/dheekshanaveen"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/Email-0E7490?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
-# Dheeksha N
-
-<a href="#ai--ml-expertise"><img src="https://img.shields.io/badge/AI%2FML%20Engineering-1e2327?style=for-the-badge" /></a>
-<a href="https://bmsit.ac.in/"><img src="https://img.shields.io/badge/BMSIT,%20Bengaluru-1e2327?style=for-the-badge" /></a><a href="https://www.google.com/maps/place/Karnataka,+India"><img src="https://img.shields.io/badge/Karnataka,%20India-7C3AED?style=for-the-badge" /></a>
-<a href="#achievements"><img src="https://img.shields.io/badge/CGPA-9.2-1e2327?style=for-the-badge" /></a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/dheekshanaveen/"><img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge" /></a>
-<a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1e2327?style=for-the-badge" /></a>
-<a href="https://github.com/dheekshanaveen"><img src="https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge" /></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=dheekshanaveen&color=1e2327&style=for-the-badge&label=PROFILE+VIEWS)
-<img src="https://img.shields.io/github/followers/dheekshanaveen?style=for-the-badge&label=FOLLOWERS&color=1e2327" />
+<img src="https://img.shields.io/badge/B.E.%20AI%20%26%20ML-BMSIT%2C%20Bengaluru-0F172A?style=flat-square" alt="Education"/>
+<img src="https://img.shields.io/badge/CGPA-9.18-0E7490?style=flat-square" alt="CGPA"/>
+<img src="https://img.shields.io/badge/Batch-2024%E2%80%932028-0F172A?style=flat-square" alt="Batch"/>
 
 </div>
 
----
+<br/>
 
 ## About
 
-AI/ML Engineering undergraduate at BMS Institute of Technology & Management, Bengaluru, working across large language models, retrieval-augmented generation, and computer vision.
+I'm an AI/ML Engineering undergraduate at **BMS Institute of Technology & Management, Bengaluru**, working across large language models, retrieval-augmented generation, and computer vision.
 
-My work spans a real-time computer-vision fitness tracker, a retrieval-augmented academic chatbot, and an agentic AI system for lending workflows — with a consistent focus on shipping things that run end to end, not prototypes that only work in a demo.
+My projects include a real-time computer-vision fitness tracker, a retrieval-augmented academic assistant, and a multi-agent system for lending workflows. I care about building things that run end to end, not prototypes that only work in a demo.
 
-I'm also active in Coding Club, BMSIT, where I've held Core Member, Marketing Associate, and Vice President roles.
+Outside coursework, I'm active in **Coding Club, BMSIT**, where I've grown from Core Member to Marketing Associate to Vice President.
 
-**Open to:** ML/AI internships · backend engineering roles · research collaborations · open-source contributions.
+> **Open to:** ML/AI internships · Backend engineering roles · Research collaborations · Open-source contributions
 
----
+<br/>
 
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,opencv,c,cpp,html,css,js,git,github,vscode,linux" />
+
+<img src="https://skillicons.dev/icons?i=python,flask,opencv,c,cpp,html,css,js,git,github,vscode,linux&theme=dark" alt="Tech stack"/>
+
 </div>
 
----
+<br/>
 
-## AI / ML Expertise
+## Focus Areas
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Computer Vision | ▰▰▰▰▰▰▰▱▱▱ Proficient | MediaPipe pose estimation, OpenCV, real-time landmark tracking |
-| LLM & RAG | ▰▰▰▰▰▰▰▱▱▱ Proficient | LangChain, retrieval-augmented generation, prompt engineering |
-| Agentic AI Systems | ▰▰▰▰▰▱▱▱▱▱ Intermediate | Multi-agent workflow design in Python |
-| Backend Engineering | ▰▰▰▰▰▰▰▱▱▱ Proficient | Flask, REST APIs, Python |
-| Applied Hackathon Engineering | ▰▰▰▰▰▱▱▱▱▱ Intermediate | Smart India Hackathon — environmental-tech MRV system |
+| Domain | Level | What I work with |
+|:--|:--|:--|
+| **Computer Vision** | Proficient | MediaPipe pose estimation, OpenCV, real-time landmark tracking |
+| **LLMs & RAG** | Proficient | LangChain, retrieval-augmented generation, prompt engineering |
+| **Backend Engineering** | Proficient | Python, Flask, REST APIs |
+| **Agentic AI** | Intermediate | Multi-agent workflow design in Python |
+| **Hackathon Engineering** | Intermediate | Smart India Hackathon, environmental-tech MRV system |
 
----
+<br/>
 
 ## Featured Projects
 
-<details>
-<summary><b>Fitphile — AI Fitness Tracker with Pose Detection</b></summary>
-<br/>
-Flask application using OpenCV and MediaPipe Pose to track and count exercise reps (push-ups, squats, lunges, planks) in real time, with voice feedback at rep milestones.
-<br/><br/>
-<code>Python</code> <code>Flask</code> <code>OpenCV</code> <code>MediaPipe</code>
-<br/><br/>
-<a href="https://github.com/dheekshanaveen/fitphile-">View Repository →</a>
-</details>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>Academic RAG Chatbot — LLM Knowledge Assistant</b></summary>
-<br/>
-LLM-based chatbot using retrieval-augmented generation to answer academic questions grounded in institutional documents rather than model memory alone. Actively in development.
-<br/><br/>
-<code>Python</code> <code>LangChain</code> <code>RAG</code>
-<br/><br/>
-<a href="https://github.com/dheekshanaveen/LLM-based-academic-chabot-with-RAG">View Repository →</a>
-</details>
+### Fitphile
+**AI fitness tracker with pose detection**
 
-<details>
-<summary><b>Agentic Lending System — Multi-Agent Workflow</b></summary>
-<br/>
-Python-based agentic AI system automating stages of a loan lending workflow through cooperating AI agents.
-<br/><br/>
-<code>Python</code> <code>Agentic AI</code>
-<br/><br/>
-<a href="https://github.com/dheekshanaveen/agentic_lending_system">View Repository →</a>
-</details>
+Flask app using OpenCV and MediaPipe Pose to track and count reps for push-ups, squats, lunges, and planks in real time, with voice feedback at rep milestones.
 
-<details>
-<summary><b>Blue Carbon MRV — Smart India Hackathon</b></summary>
-<br/>
-Environmental-tech monitoring, reporting, and verification system for blue carbon tracking, built for Smart India Hackathon.
-<br/><br/>
-<code>Environmental Tech</code> <code>Hackathon</code>
-</details>
+`Python` `Flask` `OpenCV` `MediaPipe`
 
----
+[View repository →](https://github.com/dheekshanaveen/fitphile-)
+
+</td>
+<td width="50%" valign="top">
+
+### Academic RAG Chatbot
+**LLM knowledge assistant**
+
+Chatbot that answers academic questions grounded in institutional documents rather than model memory alone. Actively in development.
+
+`Python` `LangChain` `RAG`
+
+[View repository →](https://github.com/dheekshanaveen/LLM-based-academic-chabot-with-RAG)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Agentic Lending System
+**Multi-agent workflow**
+
+Python-based agentic system that automates stages of a loan lending workflow through cooperating AI agents.
+
+`Python` `Agentic AI`
+
+[View repository →](https://github.com/dheekshanaveen/agentic_lending_system)
+
+</td>
+<td width="50%" valign="top">
+
+### Blue Carbon MRV
+**Smart India Hackathon**
+
+Monitoring, reporting, and verification system for blue carbon tracking, built for Smart India Hackathon.
+
+`Environmental Tech` `Hackathon`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Experience
 
-**Core Member · Marketing Associate · Vice President** — [Coding Club, BMSIT](https://bmsit.ac.in/)
-`2024 – Present`
+**Coding Club, BMSIT** · *Core Member → Marketing Associate → Vice President* · 2024 – Present
 
-Contributed across club operations and technical event organizing in roles of increasing responsibility.
+Contributed across club operations and technical event organizing, in roles of increasing responsibility.
 
----
+<br/>
 
+## Currently
 
+| | |
+|:--|:--|
+| **Learning** | RAG architectures and evaluation · Agentic multi-model LLM pipelines · Pose-estimation techniques |
+| **Building** | Academic RAG chatbot · Agentic lending workflow · More exercise recognition for Fitphile |
 
-## Current Focus
+<br/>
 
-```text
-learning:
-  - Retrieval-augmented generation architectures and evaluation
-  - Agentic multi-model LLM pipelines
-  - Computer vision and pose-estimation techniques
+## Education & Certifications
 
-building:
-  - Academic RAG chatbot for institutional knowledge retrieval
-  - Agentic lending workflow automation
-  - Extending Fitphile with additional exercise recognition
+- **B.E. in AI & ML Engineering**, BMS Institute of Technology & Management. CGPA **9.18**
+- Web Development, Udemy
+- Python & SQL, Udemy
+- Full Stack Web Development
 
-open_to:
-  - ML / AI engineering internships
-  - Backend and systems engineering roles
-  - Research collaborations
-  - Open-source contributions
-```
+<br/>
 
----
-
-## Achievements
-
-| Recognition | Details |
-|---|---|
-| CGPA 9.2 | AI/ML Engineering, BMSIT |
-| Smart India Hackathon | Blue Carbon MRV — environmental-tech MRV system |
-| Web Development Certification | Udemy |
-| Python & SQL Certification | Udemy |
-| Full Stack Web Development| Completed |
-| Coding Club, BMSIT | Core Member · Marketing Associate · Vice President |
-
----
-
-## Connect
+## GitHub Stats
 
 <div align="center">
 
-<a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/GMAIL-1e2327?style=for-the-badge&logo=gmail&logoColor=white" /><img src="https://img.shields.io/badge/DHEEKSHANAVEEN12%40GMAIL.COM-7C3AED?style=for-the-badge" /></a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/dheekshanaveen/"><img src="https://img.shields.io/badge/LINKEDIN-1e2327?style=for-the-badge" /><img src="https://img.shields.io/badge/DHEEKSHANAVEEN-7C3AED?style=for-the-badge" /></a>
-
-<br/><br/>
-
-<a href="https://github.com/dheekshanaveen"><img src="https://img.shields.io/badge/GITHUB-1e2327?style=for-the-badge&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/DHEEKSHANAVEEN-7C3AED?style=for-the-badge" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dheekshanaveen&show_icons=true&hide_border=false&bg_color=0F172A&border_color=164E63&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&hide_rank=true&count_private=true" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheekshanaveen&layout=compact&bg_color=0F172A&border_color=164E63&title_color=22D3EE&text_color=CBD5E1" alt="Top languages"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
-<i>Build things that work end to end — not things that only work in a demo.</i>
 
-<br/><br/>
+<sub>Build things that work end to end, not things that only work in a demo.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:5B21B6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,100:0F172A&height=90&section=footer" width="100%" alt="footer"/>
+
 </div>
