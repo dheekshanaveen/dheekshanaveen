@@ -145,7 +145,7 @@ Monitoring, reporting, and verification system for blue carbon tracking, built f
 
 ## Experience
 
-**Coding Club, BMSIT** · 2024 – Present
+**Coding Club, BMSIT** · 2026 – Present
 
 | Role | Focus |
 |:--|:--|
