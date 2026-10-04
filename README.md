@@ -199,7 +199,7 @@ I'm looking for ML/AI internship opportunities and happy to collaborate on resea
 
 <br/><br/>
 
-<sub><i>Build things that work end to end, not things that only work in a demo.</i></sub>
+<sub><i>Make cool things. See the world. Never stop learning.</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,45:0F2A44,100:020617&height=120&section=footer" width="100%" alt=""/>
 
