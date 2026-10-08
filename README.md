@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/dheekshanaveen/"><img src="https://img.shields.io/badge/LinkedIn-0284C7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/dheekshanaveen"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/Email-0284C7?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/BMSITM%2C%20Bengaluru-0F172A?style=flat-square" alt="BMSIT"/>
+<img src="https://img.shields.io/badge/BMSIT&M%2C%20Bengaluru-0F172A?style=flat-square" alt="BMSIT"/>
 <img src="https://img.shields.io/badge/CGPA-9.18-0284C7?style=flat-square" alt="CGPA 9.18"/>
 
 </div>
