@@ -16,7 +16,7 @@
 
 <div align="center">
 
-| **9.18** | **4** | **SIH** | **VICE PRESIDENT** |
+| **9.18** | **4** | **SIH** | **VICE PRESIDENT CODING CLUB** |
 |:---:|:---:|:---:|:---:|
 | CGPA<br/>B.E. AI & ML | Featured<br/>Projects | Smart India<br/>Hackathon | Coding Club<br/>BMSIT |
 
