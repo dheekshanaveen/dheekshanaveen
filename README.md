@@ -220,10 +220,12 @@ Progressed from Core Member to Vice President by taking ownership at each stage.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dheekshanaveen&show_icons=true&hide=stars&hide_rank=true&count_private=true&bg_color=0F172A&border_color=1E3A5F&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheekshanaveen&layout=compact&bg_color=0F172A&border_color=1E3A5F&title_color=38BDF8&text_color=CBD5E1" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dheekshanaveen&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&count_private=true&custom_title=Commit%20Activity&bg_color=0F172A&border_color=1E3A5F&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="Commit activity"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheekshanaveen&layout=compact&hide=plpgsql,ejs&langs_count=5&bg_color=0F172A&border_color=1E3A5F&title_color=38BDF8&text_color=CBD5E1" alt="Top languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dheekshanaveen&bg_color=0F172A&color=38BDF8&line=0284C7&point=F8FAFC&area=true&area_color=0284C7&hide_border=true&title_color=38BDF8" width="100%" alt="Contribution graph"/>
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/0284C7/dheekshanaveen" width="90%" alt="Contribution calendar"/>
 
 </div>
 
