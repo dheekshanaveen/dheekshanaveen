@@ -26,7 +26,7 @@
 
 ## About
 
-I'm an AI/ML Engineering undergraduate at **BMS Institute of Technology & Management, Bengaluru** (batch of 2024–2028), working across large language models, retrieval-augmented generation, and computer vision.
+I'm an AI/ML Engineering undergraduate at **BMSIT&M, Bengaluru** (batch of 2024–2028), working across large language models, retrieval-augmented generation, and computer vision.
 
 My projects include a real-time computer-vision fitness tracker, a retrieval-augmented academic assistant, and a multi-agent system for lending workflows. I care about building things that run end to end, not prototypes that only work in a demo.
 
