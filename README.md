@@ -51,7 +51,7 @@ Real-time pose estimation and landmark tracking with MediaPipe and OpenCV.
 
 **LLMs & RAG**
 
-Retrieval-augmented systems that answer from trusted documents, built with LangChain.
+Retrieval augmented systems that answer from trusted documents, built with LangChain.
 
 </td>
 <td width="33%" valign="top">
