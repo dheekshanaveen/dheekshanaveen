@@ -220,17 +220,17 @@ Progressed from Core Member to Vice President by taking ownership at each stage.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/190%2B%20commits-last%20year-0284C7?style=for-the-badge&labelColor=0F172A" alt="190+ commits in the last year"/>
+<img src="https://img.shields.io/badge/220%2B%20contributions-last%20year-0284C7?style=for-the-badge&labelColor=0F172A" alt="220+ contributions in the last year"/>
 <img src="https://img.shields.io/badge/Python--first-AI%20%2F%20ML%20%2B%20Backend-0284C7?style=for-the-badge&labelColor=0F172A" alt="Python-first"/>
 <img src="https://img.shields.io/badge/4%2B-end--to--end%20projects-0284C7?style=for-the-badge&labelColor=0F172A" alt="4+ end-to-end projects"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheekshanaveen&layout=donut&hide=plpgsql,ejs&langs_count=5&card_width=420&bg_color=0F172A&border_color=1E3A5F&title_color=38BDF8&text_color=CBD5E1" alt="Top languages"/>
+<img src="https://streak-stats.demolab.com?user=dheekshanaveen&theme=dark&background=0F172A&border=1E3A5F&stroke=1E3A5F&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8&hide_current_streak=true" alt="Contribution stats"/>
 
 <br/><br/>
 
-<img src="https://contribkit.app/user/dheekshanaveen.svg?palette=nord&shape=rounded&background=%230F172A" width="95%" alt="Contribution calendar"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheekshanaveen&layout=donut&hide=plpgsql,ejs&langs_count=5&card_width=420&bg_color=0F172A&border_color=1E3A5F&title_color=38BDF8&text_color=CBD5E1" alt="Top languages"/>
 
 </div>
 
