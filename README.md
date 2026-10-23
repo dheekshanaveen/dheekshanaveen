@@ -220,12 +220,17 @@ Progressed from Core Member to Vice President by taking ownership at each stage.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dheekshanaveen&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&count_private=true&custom_title=Commit%20Activity&bg_color=0F172A&border_color=1E3A5F&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="Commit activity"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheekshanaveen&layout=compact&hide=plpgsql,ejs&langs_count=5&bg_color=0F172A&border_color=1E3A5F&title_color=38BDF8&text_color=CBD5E1" alt="Top languages"/>
+<img src="https://img.shields.io/badge/190%2B%20commits-last%20year-0284C7?style=for-the-badge&labelColor=0F172A" alt="190+ commits in the last year"/>
+<img src="https://img.shields.io/badge/Python--first-AI%20%2F%20ML%20%2B%20Backend-0284C7?style=for-the-badge&labelColor=0F172A" alt="Python-first"/>
+<img src="https://img.shields.io/badge/4%2B-end--to--end%20projects-0284C7?style=for-the-badge&labelColor=0F172A" alt="4+ end-to-end projects"/>
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/0284C7/dheekshanaveen" width="90%" alt="Contribution calendar"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheekshanaveen&layout=donut&hide=plpgsql,ejs&langs_count=5&card_width=420&bg_color=0F172A&border_color=1E3A5F&title_color=38BDF8&text_color=CBD5E1" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://contribkit.app/user/dheekshanaveen.svg?palette=nord&shape=rounded&background=%230F172A" width="95%" alt="Contribution calendar"/>
 
 </div>
 
