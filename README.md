@@ -165,7 +165,15 @@ Cooperating AI agents for multi-step workflows, served through Python, Flask, an
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,opencv,c,cpp,html,css,js,sql,git,github,linux,vscode&theme=dark" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,opencv,postgres,c,cpp,js,html,css,git,github,linux&theme=dark" alt="Tech stack"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=38BDF8" alt="LangChain"/>
+<img src="https://img.shields.io/badge/MediaPipe-0F172A?style=for-the-badge&logo=google&logoColor=38BDF8" alt="MediaPipe"/>
+<img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logoColor=38BDF8" alt="RAG"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-0F172A?style=for-the-badge&logoColor=38BDF8" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logoColor=38BDF8" alt="REST APIs"/>
 
 </div>
 
@@ -173,12 +181,12 @@ Cooperating AI agents for multi-step workflows, served through Python, Flask, an
 
 | Domain | Level | Tools |
 |:--|:--|:--|
-| **Languages** | Proficient | Python, C, C++, JavaScript, SQL |
+| **Languages** | Proficient | Python, C, C++, JavaScript, SQL (PostgreSQL) |
 | **LLMs & RAG** | Proficient | LangChain, prompt engineering, retrieval pipelines |
 | **Computer Vision** | Proficient | OpenCV, MediaPipe, real-time landmark tracking |
 | **Backend** | Proficient | Flask, Express, REST APIs |
 | **Agentic AI** | Intermediate | Multi-agent workflow design |
-| **Tools** | Proficient | Git, GitHub, Linux, VS Code |
+| **Tools** | Proficient | Git, GitHub, Linux |
 
 <br/>
 
