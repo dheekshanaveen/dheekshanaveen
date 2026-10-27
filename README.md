@@ -165,7 +165,7 @@ Cooperating AI agents for multi-step workflows, served through Python, Flask, an
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,opencv,postgres,c,cpp,js,react,vite,html,css,git,github,linux&theme=dark" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,opencv,postgres,c,cpp,js,react,vite,html,css,git,github,linux&theme=dark&perline=8" alt="Tech stack"/>
 
 <br/>
 
