@@ -24,7 +24,7 @@
 
 <br/>
 
-## Hello, I'm Dheeksha
+## Hello, I'm Dheeksha N
 
 AI/ML Engineering undergraduate at **BMS Institute of Technology & Management, Bengaluru**, building across **large language models, retrieval-augmented generation, and computer vision**.
 
