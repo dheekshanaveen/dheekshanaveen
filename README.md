@@ -30,7 +30,7 @@ AI/ML Engineering undergraduate at **BMS Institute of Technology & Management, B
 
 I focus on systems that work beyond the demo: clean backends, grounded LLM answers, real-time vision pipelines, and code other people can run.
 
-> **Open to:** ML/AI internships · Backend engineering roles · Research collaborations · Open-source contributions
+> **Open to:** AI and ML internships · Backend engineering roles · Research collaborations · Open-source contributions
 
 <br/>
 
