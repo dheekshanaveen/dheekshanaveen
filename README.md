@@ -82,19 +82,6 @@ Cooperating AI agents for multi-step workflows, served through Python, Flask, an
 <tr>
 <td width="50%" valign="top">
 
-### Fitphile
-**Real-time AI fitness tracker**
-
-**Problem:** Home workouts have no form or rep feedback.
-**Solution:** Flask app using OpenCV and MediaPipe Pose to detect posture and count reps for push-ups, squats, lunges, and planks, with voice feedback at rep milestones.
-
-`Python` `Flask` `OpenCV` `MediaPipe`
-
-[View repository →](https://github.com/dheekshanaveen/fitphile-)
-
-</td>
-<td width="50%" valign="top">
-
 ### EduRAG: Academic RAG Chatbot
 **Grounded student knowledge assistant**
 
@@ -106,8 +93,6 @@ Cooperating AI agents for multi-step workflows, served through Python, Flask, an
 [View repository →](https://github.com/dheekshanaveen/LLM-based-academic-chabot-with-RAG)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Agentic Lending System
@@ -119,6 +104,21 @@ Cooperating AI agents for multi-step workflows, served through Python, Flask, an
 `Python` `Agentic AI` `LLMs`
 
 [View repository →](https://github.com/dheekshanaveen/agentic_lending_system)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Fitphile
+**Real-time AI fitness tracker**
+
+**Problem:** Home workouts have no form or rep feedback.
+**Solution:** Flask app using OpenCV and MediaPipe Pose to detect posture and count reps for push-ups, squats, lunges, and planks, with voice feedback at rep milestones.
+
+`Python` `Flask` `OpenCV` `MediaPipe`
+
+[View repository →](https://github.com/dheekshanaveen/fitphile-)
 
 </td>
 <td width="50%" valign="top">
@@ -133,33 +133,7 @@ Cooperating AI agents for multi-step workflows, served through Python, Flask, an
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### Roadside Garbage Density Estimation
-**Computer vision for urban cleanliness**
-
-**Problem:** Garbage accumulation is hard to measure at scale.
-**Solution:** Team project estimating roadside garbage density from images using computer vision techniques.
-
-`Python` `Computer Vision`
-
-</td>
-<td width="50%" valign="top">
-
-### Smart Sentence Analyzer
-**Full-stack web app with a public API**
-
-**Problem:** Turning raw text into structured insight.
-**Solution:** Express/Node web app that sends sentences to the Wit.ai API and renders the analysis with EJS.
-
-`Node.js` `Express` `Axios` `EJS` `Wit.ai`
-
-</td>
-</tr>
 </table>
-
-<br/>
 
 ## Tech Stack
 
