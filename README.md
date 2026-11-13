@@ -257,7 +257,7 @@ Hiring for an ML/AI or backend internship, or want to collaborate on research or
 
 <br/><br/>
 
-<sub><i>Make cool things. See the world. Never stop learning.</i></sub>
+<sub><i>Make cool things. keep exploring</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,45:0F2A44,100:020617&height=120&section=footer" width="100%" alt=""/>
 
