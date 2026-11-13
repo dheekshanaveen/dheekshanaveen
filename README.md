@@ -135,6 +135,8 @@ Cooperating AI agents for multi-step workflows, served through Python, Flask, an
 </tr>
 </table>
 
+<br/>
+
 ## Tech Stack
 
 <div align="center">
@@ -204,7 +206,7 @@ Progressed from Core Member to Vice President by taking ownership at each stage.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/220%2B%20contributions-last%20year-0284C7?style=for-the-badge&labelColor=0F172A" alt="220+ contributions in the last year"/>
+<img src="https://img.shields.io/badge/240%2B%20contributions-last%20year-0284C7?style=for-the-badge&labelColor=0F172A" alt="240+ contributions in the last year"/>
 <img src="https://img.shields.io/badge/Python--first-AI%20%2F%20ML%20%2B%20Backend-0284C7?style=for-the-badge&labelColor=0F172A" alt="Python-first"/>
 <img src="https://img.shields.io/badge/4%2B-end--to--end%20projects-0284C7?style=for-the-badge&labelColor=0F172A" alt="4+ end-to-end projects"/>
 
@@ -214,7 +216,10 @@ Progressed from Core Member to Vice President by taking ownership at each stage.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheekshanaveen&layout=donut&hide=plpgsql,ejs&langs_count=5&card_width=420&bg_color=0F172A&border_color=1E3A5F&title_color=38BDF8&text_color=CBD5E1" alt="Top languages"/>
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=38BDF8" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" alt="C++"/>
+<img src="https://img.shields.io/badge/HTML%2FCSS-0F172A?style=for-the-badge&logo=html5&logoColor=38BDF8" alt="HTML and CSS"/>
 
 </div>
 
@@ -231,7 +236,7 @@ Hiring for an ML/AI or backend internship, or want to collaborate on research or
 
 <br/><br/>
 
-<sub><i>Make cool things. keep exploring</i></sub>
+<sub><i>Make cool things. See the world. Never stop learning.</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,45:0F2A44,100:020617&height=120&section=footer" width="100%" alt=""/>
 
