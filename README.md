@@ -227,17 +227,15 @@ Progressed from Core Member to Vice President by taking ownership at each stage.
 
 ## Let's Connect
 
-Hiring for an ML/AI or backend internship, or want to collaborate on research or open source? I'd love to hear from you.
-
 <div align="center">
 
-<a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/dheekshanaveen12%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/dheekshanaveen/"><img src="https://img.shields.io/badge/dheekshanaveen-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/dheekshanaveen/"><img src="https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dheekshanaveen12@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-<sub><i>Make cool things. See the world. Never stop learning.</i></sub>
+<sub>Open to ML/AI internships, backend roles, and collaborations. Reach out anytime.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,45:0F2A44,100:020617&height=120&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:0F2A44,100:020617&height=100&section=footer" width="100%" alt=""/>
 
 </div>
